@@ -14,4 +14,4 @@ include("fabric")
 include("forge")
 include("neoForge")
 
-rootProject.name = "vivecraft"
+rootProject.name = "questmod"
